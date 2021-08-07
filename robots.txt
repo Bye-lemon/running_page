@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://bye-lemon.github.io/sitemap/sitemap-index.xml
+Sitemap: https://bye-lemon.github.io/running_page/sitemap/sitemap-index.xml
 Host: https://bye-lemon.github.io
