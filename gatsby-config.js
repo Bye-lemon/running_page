@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/`, // Change to `/running_page` when running on github pages
+  pathPrefix: `/running_page`, // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Li Yingping\'s Running Page',
     siteUrl: 'https://bye-lemon.github.io',
