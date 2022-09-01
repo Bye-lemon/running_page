@@ -16,5 +16,6 @@ _site/
 
 /.vscode
 .idea
+.history
 
 config.yaml
